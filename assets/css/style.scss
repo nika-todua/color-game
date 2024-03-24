@@ -16,7 +16,7 @@
 }
 
 body {
-    background-color: #515151;
+    background-color: #6b6b6b;
 }
 
 .header {
@@ -42,14 +42,14 @@ body {
 
         select {
             border-radius: 5px;
-            background-color: #2fb;
+            background-color: rgb(21, 120, 207);
             outline: none;
             width: 140px;
             border: none;
             height: 35px;
             font-family: "Madimi One", sans-serif;
             font-size: 16px;
-            color: #000;
+            color: #fff;
             cursor: pointer;
 
             option {
@@ -71,11 +71,12 @@ body {
 
             border: none;
             border-radius: 5px;
-            background-color: #2fb;
+            background-color: rgb(21, 120, 207);
 
             font-family: "Madimi One", sans-serif;
             font-size: 400;
             font-size: 18px;
+            color: #fff;
             cursor: pointer;
         }
     }
@@ -295,8 +296,8 @@ body {
     &_color_code {
         font-family: "Madimi One", sans-serif;
         font-weight: 400;
-        font-size: 24px;
-        color: rgb(235, 122, 122);
+        font-size: 26px;
+        color: rgb(54, 252, 226);
     }
 
     &_box_cont {
